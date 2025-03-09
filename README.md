@@ -6,9 +6,6 @@ This repository contains the source code for the informative website of Navrachn
   <img src="img/Picture2.png" alt="Navrachna University Logo" width="200">
 </p>
 
-# Navrachna University Website
-
-This repository contains the source code for the informative website of Navrachna University. The website provides detailed information about the university's programs, schools, application processes, contact details, and semester timetables.
 
 ## Features
 
